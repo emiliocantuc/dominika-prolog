@@ -16,7 +16,7 @@ La heurística empleada es simplemente 1 - m/(m+c) donde m es la cantidad de fic
 El agente es solamente una demostración de la implementación de minimax alfa-beta en Prolog, por lo que existen muchas mejoras en su estrategia.  
 
 ## Instrucciones de uso
-Para jugar contra el agente se debe consultar el archivo dominika.pl y realizar la consulta `juego.` y seguir los prompts para ingresar las fichas del agente (no las del contrincante, que no se conocen).
+Para jugar contra el agente se debe consultar el archivo [dominika.pl](https://github.com/emiliocantuc/dominika-prolog/blob/main/dominika.pl) y realizar la consulta `juego.` y seguir los prompts para ingresar las fichas del agente (no las del contrincante, que no se conocen).
 
 Para ingresar acciones del contrincante consultar `contrincante.` y seguir los prompts. 
 
